@@ -17,8 +17,8 @@ Java into JavaScript, and run the application in production mode.
 	4. ~~Manage Events on the Client~~
 	5. ~~Code Functionality on the Client~~
 	6. ~~Debug a GWT Application~~
-	7. Apply Style
-	8. Compile a GWT Application
+	7. ~~Apply Style~~
+	8. ~~Compile a GWT Application~~
 
 ## Client-Server Communication
 1. Communicating with the server via GWT RPC
