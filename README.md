@@ -15,8 +15,8 @@ Java into JavaScript, and run the application in production mode.
 	2. ~~Design the Application~~
 	3. ~~Build the User Interface~~
 	4. ~~Manage Events on the Client~~
-	5. Code Functionality on the Client
-	6. Debug a GWT Application
+	5. ~~Code Functionality on the Client~~
+	6. ~~Debug a GWT Application~~
 	7. Apply Style
 	8. Compile a GWT Application
 
