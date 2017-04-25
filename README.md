@@ -22,6 +22,17 @@ Java into JavaScript, and run the application in production mode.
 
 ## Client-Server Communication
 1. Communicating with the server via GWT RPC
+>
+Add a call to a server using GWT RPC. You’ll learn how to make asynchronous calls, serialize Java objects, and handle exceptions.
+
+	1. ~~Create a service on the server.~~
+	2. ~~Invoke the service from the client.~~
+	3. ~~Serialize the data objects.~~
+	4. ~~Handle exceptions: checked and unexpected.~~
+
+	Lauch the following URL for test:
+	http://localhost:8888/StockWatcher.html
+	
 2. Retrieving JSON data via HTTP
 3. Making cross-site requests
 
