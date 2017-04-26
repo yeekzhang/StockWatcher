@@ -27,6 +27,15 @@ Java into JavaScript, and run the application in production mode.
 
 ## Internationalization
 1. Internationalizing a GWT application
+> Translate the user interface of a GWT application into another language using Static String Internationalization.
+
+	1. ~~Select an internationalization technique.~~
+	2. ~~Internationalize StockWatcher by creating a translation for each language supported.~~
+	3. ~~Localize StockWatcher by selecting the appropriate translation for the context (locale).~~
+
+Test URL (not tested yet!!!!!)
+http://localhost:8888/StockWatcher.html?gwt.codesvr=127.0.0.1:9997&locale=de
+"Please note that DevMode is deprecated, use SuperDevMode instead, which does not need browser plugins. "	
 
 ## JUnit Testing
 1. Unit testing with JUnit
